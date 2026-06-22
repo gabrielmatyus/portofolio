@@ -12,7 +12,7 @@ function App() {
         <section>
             <img src={me} alt="" />
             <div>
-              <h1>{profile.name}</h1>
+              <h3>{profile.name}</h3>
               <h2>{profile.title}</h2>
               <p>{profile.description}</p>
               <p>{profile.location}</p>
