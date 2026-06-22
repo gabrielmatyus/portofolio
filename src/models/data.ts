@@ -39,7 +39,7 @@ export const projectsData = [
     name: "Portofolio",
     description: "Profile presentation website.",
     architecture: "Built with React and TypeScript, using Firebase Hosting.",
-    link: "https://github.com/gabriel/project-b",
+    link: "https://github.com/gabrielmatyus/portofolio",
     features: ["Profile presentation", "Work experience", "Skills showcase", "Projects overview", "Contact information"]
   }
 ];
